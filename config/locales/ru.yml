@@ -876,6 +876,7 @@ ru:
   setting_user_format: Формат отображения имени
   setting_welcome_text: Текст приветствия
   setting_wiki_compression: Сжатие истории Wiki
+  setting_api_limit: Максимальное количество записей, возвращаемых в ответе JSON/XML API
 
   status_active: активен
   status_locked: заблокирован
